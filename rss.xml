@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ORLOV]]></title>
-        <description><![CDATA[ORLOV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[ORLOV jewelry - a precious dream]]></title>
+        <description><![CDATA[ORLOV jewelry - a precious dream]]></description>
+        <link>https://thegrid.ai/orlov/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 12:53:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 13:18:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/orlov/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59726a29-4b70-401a-9229-35b5a3a91b2e.jpg">]]></description>
+            <link>https://thegrid.ai/orlov/c5d14651-6acb-4236-b7c9-be53e9773aba/index.html</link>
+            <guid isPermaLink="false">c5d14651-6acb-4236-b7c9-be53e9773aba</guid>
+            <pubDate>Wed, 17 Feb 2016 13:05:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A PRECIOUS DREAM "We are pushing the boundaries of excellence, quality and innovation
 to create an unique High Jewelry experience."
  
 ORLOV jewelry designs and manufactures High Jewelry specialising in natural precious gemstones and exceptional diamonds. We are involved in every stage of the jewelry making process - from sourcing to the final setting of each jewelry piece. Our Emeralds come from Columbia, Rubies and Rapphires from Burma, Africa and Sri Lanka - they are carefully selected and set by professional hands of Italian master jewelers.</p>]]></description>
-            <link>undefined7e34d583-63e8-4a45-bf6d-604297812aa5/index.html</link>
+            <link>https://thegrid.ai/orlov/7e34d583-63e8-4a45-bf6d-604297812aa5/index.html</link>
             <guid isPermaLink="false">7e34d583-63e8-4a45-bf6d-604297812aa5</guid>
             <pubDate>Wed, 17 Feb 2016 12:53:50 GMT</pubDate>
         </item>
